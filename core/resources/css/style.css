@@ -1,0 +1,26 @@
+.navbar {
+
+    background-color: black;
+}
+
+#main {
+    background-image: url('https://cdn.dribbble.com/users/3827997/screenshots/9122620/media/171962020613230682ac5e31f3a5df81.jpg?compress=1');
+    height: 550px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, .9);
+    opacity: .9;
+}
+
+h3 {
+    text-align: center;
+}
+
+.table {
+    border: 1px solid grey;
+}
+
+#div1 {
+    padding-top: 2%;
+}
